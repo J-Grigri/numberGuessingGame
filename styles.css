@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://i.imgur.com/GjscCgG.jpg);
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+}
+#container {
+    background-color: lightgrey;
+    width:60%;
+    height:500px;
+    border-radius: 50px;
+}
+
+
+h1 {
+    font-size:40px;
+}
+
+#userInput {
+    font-size: 40px ;
+}
